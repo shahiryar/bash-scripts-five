@@ -54,3 +54,5 @@ clear
 ./questionnaire.sh
 ./questionnaire.sh
 ./questionnaire.sh
+clear
+touch countdown.sh
