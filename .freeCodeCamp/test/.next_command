@@ -51,3 +51,4 @@ echo -e this is some text\n\n
 echo -e this is some text \n \n
 clear
 ./questionnaire.sh
+./questionnaire.sh
