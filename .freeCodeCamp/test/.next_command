@@ -63,3 +63,4 @@ chmod +x countdown.sh
 __vsc_prompt_cmd_original
 man if
 help
+man if
