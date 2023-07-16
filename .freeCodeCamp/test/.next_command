@@ -46,3 +46,4 @@ questionnaire.sh
 clear
 ./questionnaire.sh
 echo --help
+man echo
