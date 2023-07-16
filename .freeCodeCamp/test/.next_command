@@ -47,3 +47,5 @@ clear
 ./questionnaire.sh
 echo --help
 man echo
+echo -e this is some text\n\n
+echo -e this is some text \n \n
