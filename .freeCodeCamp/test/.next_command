@@ -45,3 +45,4 @@ questionnaire.sh
 ./questionnaire.sh
 clear
 ./questionnaire.sh
+echo --help
