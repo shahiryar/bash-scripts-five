@@ -144,3 +144,5 @@ printenv
 echo $LANG
 declare -p
 echo $RANDOM
+echo $RANDOM
+nano bingo.sh
