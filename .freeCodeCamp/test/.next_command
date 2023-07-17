@@ -83,3 +83,5 @@ mv hello_there.txt adnan_folder
 clear
 [[ 4 -ge 5 ]]
 echo $?
+__vsc_prompt_cmd_original
+[[ 4 -ge 5 ]]
