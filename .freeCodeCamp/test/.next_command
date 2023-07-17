@@ -192,3 +192,9 @@ nano bingo.sh
 ./bingo.sh
 __vsc_prompt_cmd_original
 ./bingo.sh
+clear
+nano fortune.sh
+rm fotune.sh
+rm fortune.sh
+clear
+touch fortune.sh
