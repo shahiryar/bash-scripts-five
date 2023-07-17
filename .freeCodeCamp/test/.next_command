@@ -103,3 +103,15 @@ __vsc_prompt_cmd_original
 [[ -x countdown.sh ]]
 help {{
 help [[
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+echo $?
+echo $?
+clear
+[[ -x countdown.sh && 5 -le 4 ]]
