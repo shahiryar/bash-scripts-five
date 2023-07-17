@@ -86,3 +86,8 @@ echo $?
 __vsc_prompt_cmd_original
 [[ 4 -ge 5 ]]
 [[ 10 -ne 5 ]]
+bad_command
+[[ 10 -eq 8 ]]
+[[ 10 -eq 8 ]]
+[[ 10 -eq 8 ]]
+bad_command
