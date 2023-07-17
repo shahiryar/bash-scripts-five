@@ -91,3 +91,4 @@ bad_command
 [[ 10 -eq 8 ]]
 [[ 10 -eq 8 ]]
 bad_command
+ls --color=auto
