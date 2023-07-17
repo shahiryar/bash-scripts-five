@@ -92,3 +92,7 @@ bad_command
 [[ 10 -eq 8 ]]
 bad_command
 ls --color=auto
+rm -r adnan_folder/hello_there.txt
+rmdir adnan_folder
+clear
+ls --color=auto -y
