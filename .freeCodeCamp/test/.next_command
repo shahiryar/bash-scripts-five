@@ -141,3 +141,4 @@ chmod +x bingo.sh
 nano bingo.sh
 ./bingo.sh
 printenv
+echo $LANG
