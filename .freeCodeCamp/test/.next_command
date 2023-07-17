@@ -201,3 +201,5 @@ touch fortune.sh
 chmod +x fortune.sh
 nano fortune.sh
 ./fortune.sh
+nano fortune.sh
+ARR=("a" "b" "c")
