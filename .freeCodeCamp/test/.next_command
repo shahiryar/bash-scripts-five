@@ -203,3 +203,5 @@ nano fortune.sh
 ./fortune.sh
 nano fortune.sh
 ARR=("a" "b" "c")
+echo $(ARR[1])
+echo ${ARR[1]}
