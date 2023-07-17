@@ -139,3 +139,4 @@ clear
 touch bingo.sh
 chmod +x bingo.sh
 nano bingo.sh
+./bingo.sh
