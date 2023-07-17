@@ -153,3 +153,5 @@ nano bingo
 nano bingo.sh
 nano bingo.sh
 ./bingo.sh
+I=5
+I=0
