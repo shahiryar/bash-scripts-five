@@ -96,3 +96,4 @@ rm -r adnan_folder/hello_there.txt
 rmdir adnan_folder
 clear
 ls --color=auto -y
+help test
