@@ -178,3 +178,6 @@ echo $(( ((RANDOM%75))+1 ))
 echo $(( RANDOM%75+1 ))
 nano
 nano bingo.sh
+nano bingo.sh
+./bingo.sh
+./bingo.sh
