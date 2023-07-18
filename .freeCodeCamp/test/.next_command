@@ -210,3 +210,6 @@ echo ${ARR[*\@]}
 echo ${ARR[@]}
 declare -p
 declare -p ARR
+clear
+declare -p ARR
+nano fortune.sh
