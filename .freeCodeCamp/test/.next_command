@@ -214,3 +214,5 @@ clear
 declare -p ARR
 nano fortune.sh
 ./fortune.sh
+echo ${ARR[-1]}
+nano fortune.sh
