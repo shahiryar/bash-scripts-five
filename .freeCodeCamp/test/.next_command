@@ -267,3 +267,4 @@ nano fortune.sh
 VAR = 'hello world'
 VAR= 'hello world'
 VAR='hello world'
+echo $VAR
