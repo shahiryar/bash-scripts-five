@@ -287,3 +287,4 @@ touch five.sh
 chmod +x five.sh
 echo
 nano five.sh
+./five.sh
