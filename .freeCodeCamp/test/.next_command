@@ -277,3 +277,5 @@ __vsc_prompt_cmd_original
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
 nano fortune.sh
+__vsc_prompt_cmd_original
+./fortune.sh
