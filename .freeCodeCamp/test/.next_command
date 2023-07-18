@@ -242,3 +242,4 @@ help until
 nano fortune.sh
 __vsc_prompt_cmd_original
 ./fortune.sh
+help [[
