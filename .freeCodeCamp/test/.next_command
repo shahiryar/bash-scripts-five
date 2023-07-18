@@ -288,3 +288,4 @@ chmod +x five.sh
 echo
 nano five.sh
 ./five.sh
+nano five.sh
