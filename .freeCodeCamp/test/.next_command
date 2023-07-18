@@ -253,3 +253,17 @@ __vsc_prompt_cmd_original
 [[ "hello world" =~ ^h ]]
 [[ "hello world" =~ ^h ]]
 [[ "hello world" =~ ^h.+d$ ]]
+[[ "hello world" =~ ^h.*d$ ]]
+[[ "hello world" =~ ^h.-d$ ]]
+[[ "hello world" =~ ^h.+d$ ]]
+[[ "hd" =~ ^h.+d$ ]]
+[[ "hd" =~ ^h.*d$ ]]
+[[ "hd" =~ ^h*d$ ]]
+[[ "hellod" =~ ^h+d$ ]]
+[[ "hello d" =~ ^h+d$ ]]
+[[ "hd" =~ ^h+d$ ]]
+[[ "hd" =~ ^h.+d$ ]]
+nano fortune.sh
+VAR = 'hello world'
+VAR= 'hello world'
+VAR='hello world'
