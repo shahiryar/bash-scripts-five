@@ -216,3 +216,13 @@ nano fortune.sh
 ./fortune.sh
 echo ${ARR[-1]}
 nano fortune.sh
+./fortune.sj
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+clear
+help
